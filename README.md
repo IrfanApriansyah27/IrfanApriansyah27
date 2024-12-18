@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about web development, networking, 
 - 👀 I’m interested in web development, networking, and design tools like Figma.
 - 🌱 I’m currently learning how to build interactive websites with image upload features and exploring Cisco networking projects.
 - 💞️ I’m looking to collaborate on e-commerce platforms, database optimization, and creative UI/UX projects.
-- 📫 How to reach me: [irfanapriansyah27@example.com](mailto:irfanapriansyah27@example.com) (replace with your actual email)
+- 📫 How to reach me: [irfanapriansyah6212@gmail.com](mailto:irfanapriansyah6212@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love blending creativity with technology, and I can spend hours tweaking a design until it's perfect!
 
